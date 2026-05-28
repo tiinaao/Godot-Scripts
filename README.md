@@ -1,2 +1,2 @@
 # Godot-Scripts
-A personal library of reusable scripts, utilities, and experiments for the Godot Engine.
+A small library of reusable scripts for the Godot Engine (with comments).
